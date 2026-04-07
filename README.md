@@ -4,7 +4,7 @@
 
 Founded by Abdullah Uriel Khafra · Lords of the Pivot  
 Philadelphia, PA · April 2026  
-OSF Repository: [DOI 10.17605/OSF.IO/2WHR4](https://osf.io/ym4tf/)
+OSF Repository: [DOI 10.17605/OSF.IO/ym4tf](https://osf.io/ym4tf/)
 
 ---
 
@@ -140,8 +140,8 @@ Each combination labels a distinct class of event topology. The full mapping is 
 
 All papers, hash registries, and verification files are permanently archived at:
 
-**Primary OSF repository:** https://osf.io/ym4ttf/  
-**Paper V+ (ACE validation):** https://osf.io/fq7p6/  
+**Primary OSF repository:** https://osf.io/ym4tf/  
+**Paper V+ (ACE validation):** https://osf.io/ym4tf/  
 **Paper VII (blind test):** https://osf.io/ym4tf/
 
 Documents include:
